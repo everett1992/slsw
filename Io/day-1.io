@@ -1,3 +1,5 @@
+#!/bin/env io
+
 1 + 1 println
 
 # The following would cause an exception, Io
