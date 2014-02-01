@@ -69,4 +69,5 @@ aList myAverage println
 # Will throw an exception
 # list(1,"a") myAverage println
 
+"At this point I go bored. Io is ungoogleable, I'm done." println
 exit
